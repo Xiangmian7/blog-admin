@@ -1,0 +1,1 @@
+import{_ as e,o,a as s,i as t}from"./index-24cafc78.js";const c={},n={class:"friend"},a=t("h2",null,"friend",-1),_=[a];function r(d,i){return o(),s("div",n,_)}const l=e(c,[["render",r]]);export{l as default};
